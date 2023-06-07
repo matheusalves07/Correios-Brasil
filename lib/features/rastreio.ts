@@ -77,7 +77,7 @@ function fetchTrackingService(code: string): Promise<any> {
    * @param {string} code
    */
   return new Promise((resolve, reject) => {
-    // Gera um token para realizar a consulta   
+    // Gera um token para realizar a consulta 
     gerarTokenApp()
       .then((token: string) => {
         // Realiza a consulta
