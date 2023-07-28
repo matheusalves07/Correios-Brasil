@@ -4,7 +4,7 @@
 
 <img  src="https://media.giphy.com/media/nbX0ijnZwU33wY6Wwo/giphy.gif"/><br>
 
-<b>Descomplicando os Correios!</b> 📬
+<b>Descomplicando os Correios! </b> 📬
 
 </h4>
 
@@ -13,6 +13,13 @@
 <a  href="https://lucasfinoti.netlify.app">
 
 <img  alt="Made by Lucas Finoti"  src="https://img.shields.io/badge/made%20by-LucasFinoti-red">
+
+
+<p>
+<a  href="https://lucasfinoti.netlify.app">
+
+<img  alt="Made by Lucas Finoti"  src="https://img.shields.io/badge/made%20by-LucasFinoti-red">
+</p>
 
 </a>
 
