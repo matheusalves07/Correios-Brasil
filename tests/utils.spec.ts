@@ -51,7 +51,7 @@ describe('Parsers', () => {
       expect(converted).to.be.an('string');
     });
 
-    function stringToBuffer(str: string) {
+     function stringToBuffer(str: string) {
       const buf = new ArrayBuffer(str.length * 2);
       const bufView = new Uint16Array(buf);
 
